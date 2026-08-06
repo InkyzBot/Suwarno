@@ -1,3 +1,3 @@
 # Suwarno
 
-Gedo Mazo [➡️](Karakter/Gedo Mazo.md)
+Gedo Mazo [➡️](Karakter/Gedo%20Mazo.md)
